@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package examples;
+
+message HelloReq {
+  string name = 1;
+}
+
+message HelloResp {
+  string greet = 1;
+}
+
+service HelloGreeter {
+  rpc greet(HelloReq) returns (HelloResp);
+}
