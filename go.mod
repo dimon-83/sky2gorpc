@@ -1,4 +1,4 @@
-module sky2gorpc
+module github.com/dimon-83/sky2gorpc
 
 go 1.15
 
