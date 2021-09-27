@@ -13,5 +13,5 @@ The API of this project is still evolving.
 # Quickstart
 
 It's a demo by showing how to trace gRPC invoking both server and client side. For more details, please view
-[the server example](examples/server/main.go) and [the server example](examples/client/main.go).
+[the server example](examples/server/main.go) and [the client example](examples/client/main.go).
 
