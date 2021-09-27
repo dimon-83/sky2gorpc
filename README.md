@@ -1,4 +1,4 @@
-# GO2Sky
+# Sky2GoRPC
 
 
 **sky2gorpc** is a gRPC interceptors module, written in Go, using Go2Sky library.
